@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PrimeArrayFormatter {
+public class question2 {
 
     public static void main(String[] args) {
         int[] arr1 = {5, 1, 8, 11, 2};
